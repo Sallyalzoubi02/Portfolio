@@ -179,6 +179,7 @@ section {
 .course-con{
     text-decoration: none !important;
     color: white;
+    padding: 10px;
 }
 .course-con h5{
     color: #1190cb;
